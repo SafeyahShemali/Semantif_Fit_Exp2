@@ -50,7 +50,7 @@ def record_exist(result_file_name: str, predicate: str, argument: str, roleType:
         with open(result_file_name, mode ='r')as file:
             csvFile = csv.reader(file)
             for line in csvFile:
-                if predicate in line[0] and argument in line[1]:
+                if predicate == line[0] and argument == line[1]:
                         return True
         return False
     
@@ -59,7 +59,7 @@ def record_exist(result_file_name: str, predicate: str, argument: str, roleType:
         with open(result_file_name, mode ='r')as file:
             csvFile = csv.reader(file)
             for line in csvFile:
-                if predicate in line[0] and argument in line[1] and roleType in line[2]:
+                if predicate == line[0] and argument == line[1] and roleType == line[2]:
                     return True
         return False
 
