@@ -1,0 +1,6 @@
+predicate,argument,actual_fit,exp_fit
+advise,banker,ARG0,0.75
+advise,banker,ARG1,0.75
+advise,biologist,ARG0,0.75
+advise,biologist,ARG1,0.75
+advise,business,ARG0,0.75

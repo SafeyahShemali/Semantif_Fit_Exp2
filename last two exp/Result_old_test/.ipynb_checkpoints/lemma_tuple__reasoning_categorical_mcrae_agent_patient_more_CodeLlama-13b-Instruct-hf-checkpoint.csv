@@ -1,0 +1,6 @@
+predicate,argument,actual_fit,exp_fit
+abandon,baby,ARG0,0.75
+abandon,baby,ARG1,0.75
+abandon,cat,ARG0,0.75
+abandon,cat,ARG1,0.75
+abandon,child,ARG0,1.0

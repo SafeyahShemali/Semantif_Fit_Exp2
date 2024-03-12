@@ -1,0 +1,101 @@
+serve,plate,"  ```
+{
+""Is Fit"": ""Yes""
+}
+```"
+serve,plate,"  ```
+{
+""Is Fit"": ""Yes""
+}
+```"
+serve,plate,"  {\""Is Fit\"": \""Yes\""}"
+serve,plate,  {'Fit score': 'High'}
+serve,plate,  {'Fit score': 'High'}
+serve,plate,  {'Fit score': 'High'}
+serve,plate,  {'Fit score': 'High'}
+serve,plate,  {'Fit score': 'High'}
+serve,plate,  {'Fit score': 'High'}
+serve,plate,  {'Fit score': 'High'}
+serve,plate,  {'Fit score': 'High'}
+serve,plate,  {'Fit score': 'High'}
+serve,plate,  {'Fit score': 0.75}
+serve,plate,  {'Fit score': 'Low'}
+serve,plate,  {'Fit score': 0.0}
+serve,plate,  {'Fit score': 'High'}
+serve,plate,  {'Fit score': 0.75}
+serve,plate,  {'Fit score': 'Low'}
+serve,plate,  {'Fit score': 0.0}
+serve,plate,  {'Fit score': 'Low'}
+serve,plate,  {'Fit score': 0.0}
+serve,tray,  {'Fit score': 'High'}
+serve,tray,  {'Fit score': 0.75}
+serve,tray,  {'Fit score': 'High'}
+serve,tray,  {'Fit score': 0.5}
+serve,tray,  {'Fit score': 'High'}
+serve,tray,  {'Fit score': 0.75}
+serve,tray,  {'Fit score': 'High'}
+serve,tray,  {'Fit score': 0.75}
+serve,tray,  {'Fit score': 'High'}
+serve,tray,  {'Fit score': 0.75}
+serve,glass,  {'Fit score': 'High'}
+serve,glass,  {'Fit score': 0.5}
+serve,glass,  {'Fit score': 'High'}
+serve,glass,  {'Fit score': 0.75}
+serve,glass,  {'Fit score': 'High'}
+serve,glass,  {'Fit score': 0.5}
+serve,glass,  {'Fit score': 'High'}
+serve,glass,  {'Fit score': 0.5}
+serve,glass,  {'Fit score': 'High'}
+serve,glass,  {'Fit score': 0.5}
+serve,platter,  {'Fit score': 'High'}
+serve,platter,  {'Fit score': 0.5}
+serve,platter,  {'Fit score': 'High'}
+serve,platter,  {'Fit score': 0.5}
+serve,platter,  {'Fit score': 'High'}
+serve,platter,  {'Fit score': 0.5}
+serve,platter,  {'Fit score': 'High'}
+serve,platter,  {'Fit score': 0.5}
+serve,platter,  {'Fit score': 'High'}
+serve,platter,  {'Fit score': 0.5}
+serve,bucket,  {'Fit score': 'High'}
+serve,bucket,  {'Fit score': 0.5}
+serve,bucket,  {'Fit score': 'High'}
+serve,bucket,  {'Fit score': 0.5}
+serve,bucket,  {'Fit score': 'High'}
+serve,bucket,  {'Fit score': 0.5}
+serve,bucket,  {'Fit score': 'High'}
+serve,bucket,  {'Fit score': 0.75}
+serve,bucket,  {'Fit score': 'High'}
+serve,bucket,  {'Fit score': 0.8}
+sweep,mop,  {'Fit score': 'High'}
+sweep,mop,  {'Fit score': 0.8}
+sweep,mop,  {'Fit score': 'Low'}
+sweep,mop,  {'Fit score': 0.5}
+sweep,mop,  {'Fit score': 'High'}
+sweep,mop,  {'Fit score': 0.8}
+sweep,mop,  {'Fit score': 'High'}
+sweep,mop,  {'Fit score': 0.5}
+sweep,mop,  {'Fit score': 'High'}
+sweep,mop,  {'Fit score': 0.8}
+sweep,rag,  {'Fit score': 'High'}
+sweep,rag,  {'Fit score': 0.8}
+sweep,rag,  {'Fit score': 'High'}
+sweep,rag,  {'Fit score': 0.8}
+sweep,rag,  {'Fit score': 'High'}
+sweep,rag,  {'Fit score': 0.8}
+sweep,rag,  {'Fit score': 'High'}
+sweep,rag,  {'Fit score': 0.8}
+sweep,rag,  {'Fit score': 'High'}
+sweep,rag,  {'Fit score': 0.5}
+sweep,broom,  {'Fit score': 'High'}
+sweep,broom,  {'Fit score': 1.0}
+sweep,broom,  {'Fit score': 'High'}
+sweep,broom,  {'Fit score': 0.8}
+sweep,broom,  {'Fit score': 'High'}
+sweep,broom,  {'Fit score': 1.0}
+sweep,broom,  {'Fit score': 'High'}
+sweep,broom,  {'Fit score': 1.0}
+sweep,broom,  {'Fit score': 'High'}
+sweep,broom,  {'Fit score': 0.8}
+sweep,rake,  {'Fit score': 'High'}
+sweep,rake,  {'Fit score': 0.8}

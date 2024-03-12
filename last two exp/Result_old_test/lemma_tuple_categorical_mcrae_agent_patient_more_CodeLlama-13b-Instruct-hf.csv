@@ -1,0 +1,11 @@
+predicate,argument,role_type,actual_fit,exp_fit
+abandon,baby,ARG0,"3
+",0.75
+abandon,baby,ARG1,"2.8
+",0.75
+abandon,cat,ARG0,"4.6
+",0.75
+abandon,cat,ARG1,"4.8
+",0.75
+abandon,child,ARG0,"4.6
+",0.75

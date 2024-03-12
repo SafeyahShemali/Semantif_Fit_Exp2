@@ -1,0 +1,24 @@
+abandon,cat,  {'Fit score': 1.0}
+abandon,child,  {'Fit score': 1.0}
+ask,union, The argument 'union' fits the role of ARG2 for the predicate 'ask' with a fit score of 'High'.
+ask,union," The argument 'union' fits the role of ARG2 for the predicate 'ask' with a fit score of 0.8. This is because the predicate 'ask' requires an object that is being asked a question, and the argument 'union' is a noun or pronoun that refers to a group of people or things that are united or combined. The fit score of 0.8 indicates that the argument 'union' is a good fit for the role of ARG2 for the predicate 'ask', but it is not a perfect fit."
+ask,union, The argument 'union' fits the role of ARG2 for the predicate 'ask' with a fit score of 'High'.
+ask,union," The argument 'union' fits the role of ARG2 for the predicate 'ask' with a fit score of 0.8. This is because the predicate 'ask' requires an object that is being asked a question, and the argument 'union' is a noun or pronoun that refers to a group of people or things that are united or combined. The fit score of 0.8 indicates that the argument 'union' is a good fit for the role of ARG2 for the predicate 'ask', but it is not a perfect fit."
+ask,union, The argument 'union' fits the role of ARG2 for the predicate 'ask' with a fit score of 'High'.
+ask,union," The argument 'union' fits the role of ARG2 for the predicate 'ask' with a fit score of 0.8. This is because the predicate 'ask' requires an object that is being asked a question, and the argument 'union' is a noun or pronoun that refers to a group of people or things that are united or combined. The fit score of 0.8 indicates that the argument 'union' is a good fit for the role of ARG2 for the predicate 'ask', but it is not a perfect fit."
+question,criminal," The argument 'criminal' fits the role of ARG1 for the predicate 'question' with a fit score of 0.8.
+
+{""Fit score"": ""0.8""}"
+question,criminal," The argument 'criminal' fits the role of ARG1 for the predicate 'question' with a fit score of 0.8.
+
+{""Fit score"": ""0.8""}"
+question,criminal," The argument 'criminal' fits the role of ARG1 for the predicate 'question' with a fit score of 0.8.
+
+{""Fit score"": ""0.8""}"
+question,criminal," The argument 'criminal' fits the role of ARG1 for the predicate 'question' with a fit score of 0.8.
+
+{""Fit score"": ""0.8""}"
+tickle,girlfriend, The argument 'girlfriend' fits the role of ARG1 for the predicate 'tickle' with a fit score of 'High'.
+tickle,girlfriend," The argument 'girlfriend' fits the role of ARG1 for the predicate 'tickle' with a fit score of 0.8. This is because the argument 'girlfriend' is a person, which is a relevant entity for the role of ARG1, and it is also a female, which is a relevant property for the role of ARG1. However, the argument 'girlfriend' is not a physical entity, which is not a relevant property for the role of ARG1. Therefore, the fit score is 0.8, which indicates a good fit for the role of ARG1."
+ask,union, The argument 'union' fits the role of ARG2 for the predicate 'ask' with a fit score of 'High'.
+ask,union," The argument 'union' fits the role of ARG2 for the predicate 'ask' with a fit score of 0.8. This is because the predicate 'ask' requires an object that is being asked a question, and the argument 'union' is a noun or pronoun that refers to a group of people or things that are united or combined. The fit score of 0.8 indicates that the argument 'union' is a good fit for the role of ARG2 for the predicate 'ask', but it is not a perfect fit."

@@ -1,0 +1,3 @@
+predicate,argument,sentence 1,sub-fit score 1,sentence 2,sub-fit score 2,sentence 3,sub-fit score 3,sentence 4,sub-fit score 4,sentence 5,sub-fit score 5,actual_fit,exp_fit
+advise,business,ARG0,I advise the business to invest in a new marketing campaign.,0.75,The business advised me to take a break from work.,0.75,The business advised me to seek professional help.,0.75,The business advised me to take a different approach to the project.,0.75,The business advised me to reconsider my career choice.,0.75,"5.3
+",0.75

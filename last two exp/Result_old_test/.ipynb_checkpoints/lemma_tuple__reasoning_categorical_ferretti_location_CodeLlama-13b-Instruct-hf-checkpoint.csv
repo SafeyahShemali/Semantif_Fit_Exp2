@@ -1,0 +1,7 @@
+predicate,argument,actual_fit,exp_fit
+serve,a library,2.4,0.0
+serve,a restaurant,7,0.25
+serve,a hospital,5.1,0.25
+sweep,a living room,2.3,0.25
+sweep,a bathroom,4.8,0.25
+sweep,a restaurant,6.1,0.0

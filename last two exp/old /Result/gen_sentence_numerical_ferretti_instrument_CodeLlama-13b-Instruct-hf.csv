@@ -1,0 +1,6 @@
+predicate,argument,sentence 1,sub-fit score 1,sentence 2,sub-fit score 2,sentence 3,sub-fit score 3,sentence 4,sub-fit score 4,sentence 5,sub-fit score 5,actual_fit,exp_fit
+serve,plate,The waiter served the food on the plate.,0.75,,0.5,The baker served the cake on the plate.,0.8,,0.5,,0.5,5.9,0.61
+serve,tray,The waiter served the tray of food on the table.,0.8,The chef served the tray of ingredients to the cook.,0.75,The server served the tray of drinks to the customer.,0.75,The waiter served the tray of desserts to the guests.,0.75,The chef served the tray of appetizers to the diners.,0.75,6.5,0.76
+serve,glass,The waiter served the drinks in glasses.,0.5,The bartender served the cocktails in glasses.,0.75,,0.5,The waiter served the appetizers in glasses.,0.5,,0.5,4.9,0.55
+serve,platter,The waiter served the platter of appetizers on the table.,0.75,The chef served the platter of sushi to the customer.,0.5,The server served the platter of pasta to the family.,0.75,,0.5,The waiter served the platter of desserts to the guests.,0.75,5.8,0.65
+serve,bucket,,0.5,,0.5,,0.5,The mechanic served the oil in the bucket.,0.8,The gardener served the water in the bucket.,0.8,1.4,0.62

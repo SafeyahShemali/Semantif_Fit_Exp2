@@ -1,0 +1,6 @@
+predicate,argument,actual_fit,exp_fit
+serve,plate,5.9,0.5
+serve,tray,6.5,0.5
+serve,glass,4.9,0.5
+serve,platter,5.8,0.5
+serve,bucket,1.4,0.5

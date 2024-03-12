@@ -1,0 +1,9 @@
+predicate,argument,role_type,sentence 1,sub-fit score 1,sentence 2,sub-fit score 2,sentence 3,sub-fit score 3,sentence 4,sub-fit score 4,sentence 5,sub-fit score 5,actual_fit,exp_fit
+advise,banker,ARG0,The banker advised the client to invest in stocks.,0.75,The banker advised the client to take out a loan.,0.75,The banker advised the client to diversify their investments.,0.75,The banker advised the client to seek professional advice.,0.75,The banker advised the client to be cautious with their finances.,0.75,"6.0
+",0.75
+advise,banker,ARG1,The banker advised the client to invest in stocks.,0.75,The banker advised the client to take out a loan.,0.75,The banker advised the client to diversify their investments.,0.75,The banker advised the client to seek professional advice.,0.75,The banker advised the client to be cautious with their finances.,0.75,"5.0
+",0.75
+advise,biologist,ARG0,The biologist advised the scientist to conduct further research.,0.75,The biologist advised the company to invest in renewable energy.,0.75,The biologist advised the politician to take action on climate change.,0.75,The biologist advised the teacher to use more interactive teaching methods.,0.75,The biologist advised the doctor to prescribe more natural remedies.,0.75,"4.2
+",0.75
+advise,biologist,ARG1,The biologist advised the scientist to conduct further research.,0.75,The biologist advised the company to invest in renewable energy.,0.75,The biologist advised the politician to take action on climate change.,0.75,The biologist advised the teacher to use more interactive teaching methods.,0.75,The biologist advised the doctor to prescribe more natural remedies.,0.75,"5.0
+",0.75

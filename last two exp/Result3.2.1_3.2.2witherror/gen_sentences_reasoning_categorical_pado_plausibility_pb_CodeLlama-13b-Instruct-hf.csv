@@ -1,0 +1,21 @@
+predicate,argument,role_type,sentence 1,sub-fit score 1,sentence 2,sub-fit score 2,sentence 3,sub-fit score 3,sentence 4,sub-fit score 4,sentence 5,sub-fit score 5,actual_fit,exp_fit
+advise,banker,ARG0,The banker advised the client to invest in stocks.,0.75,The banker advised the client to take out a loan.,0.75,The banker advised the client to diversify their investments.,0.75,The banker advised the client to seek professional advice.,0.75,The banker advised the client to be cautious with their finances.,0.75,"6.0
+",0.75
+advise,banker,ARG1,The banker advised the client to invest in stocks.,0.75,The banker advised the client to take out a loan.,0.75,The banker advised the client to diversify their investments.,0.75,The banker advised the client to seek professional advice.,0.75,The banker advised the client to be cautious with their finances.,0.75,"5.0
+",0.75
+advise,biologist,ARG0,The biologist advised the scientist to conduct further research.,0.75,The biologist advised the company to invest in renewable energy.,0.75,The biologist advised the politician to take action on climate change.,0.75,The biologist advised the teacher to use more interactive teaching methods.,0.75,The biologist advised the doctor to prescribe more natural remedies.,0.75,"4.2
+",0.75
+advise,biologist,ARG1,The biologist advised the scientist to conduct further research.,0.75,The biologist advised the company to invest in renewable energy.,0.75,The biologist advised the politician to take action on climate change.,0.75,The biologist advised the teacher to use more interactive teaching methods.,0.75,The biologist advised the doctor to prescribe more natural remedies.,0.75,"5.0
+",0.75
+advise,business,ARG0,I advise the business to invest in a new marketing campaign.,0.75,The business advised me to take a break from work.,0.75,The business advised me to seek professional help.,0.75,The business advised me to take a different approach to the project.,0.75,The business advised me to reconsider my career choice.,0.75,"5.3
+",0.75
+advise,business,ARG1,I advise the business to invest in a new marketing campaign.,0.75,The business advised me to seek legal counsel before making any decisions.,0.75,The business advised me to take a break and recharge my batteries.,0.75,The business advised me to be more assertive in negotiations.,0.75,The business advised me to take a different approach to the project.,0.75,"5.8
+",0.75
+advise,client,ARG0,The lawyer advised the client to take legal action.,0.75,The doctor advised the patient to take medication.,1.0,The teacher advised the student to study harder.,1.0,The manager advised the employee to take a break.,0.75,The coach advised the athlete to practice more.,0.75,"3.7
+",0.85
+advise,client,ARG1,The lawyer advised the client to take legal action.,0.75,The doctor advised the patient to take medication.,1.0,The teacher advised the student to study harder.,0.75,The manager advised the employee to take a break.,0.75,The coach advised the athlete to practice more.,0.75,"6.6
+",0.8
+advise,customer,ARG0,The customer advised the salesperson to recommend the new product.,0.75,The salesperson advised the customer to try the new product.,0.75,The customer advised the salesperson to provide a discount for the new product.,0.75,The salesperson advised the customer to return the product if it did not meet their expectations.,0.75,The customer advised the salesperson to provide a warranty for the new product.,0.75,"3.8
+",0.75
+advise,customer,ARG1,The customer advised the salesperson to recommend the new product.,0.75,The salesperson advised the customer to try the new product.,0.75,The customer advised the salesperson to provide a discount for the new product.,0.75,The salesperson advised the customer to return the product if it did not meet their expectations.,0.75,The customer advised the salesperson to provide a warranty for the new product.,0.75,"6.0
+",0.75
